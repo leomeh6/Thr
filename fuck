@@ -1,0 +1,11 @@
+#!/bin/bash
+
+pyfiglet "FUCK"
+
+echo ""
+echo "Welcome to FUCK"
+echo "By Leodah4ker"
+
+cd ~/.fuck
+
+python3 ~/.fuck/sitecustomize.py
