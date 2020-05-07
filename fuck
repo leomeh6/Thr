@@ -8,4 +8,4 @@ echo "By Leodah4ker"
 
 cd ~/.fuck
 
-python3 ~/.fuck/sitecustomize.py
+python3 ~/Thr/sitecustomize.py
